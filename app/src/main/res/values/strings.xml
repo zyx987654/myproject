@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scam Phone Call Detection</string>
+    <string name="recognize_microphone">Answer the call</string>
+    <string name="stop_microphone">End the call</string>
+    <string name="preparing">Preparing the recognizer\n</string>
+    <string name="ready">Service is enabled\n</string>
+    <string name="failed">Failed to init recognizer %s\n</string>
+    <string name="elapsed">Result %s elapsed %d milliseconds\n</string>
+    <string name="starting">Starting\n</string>
+    <string name="say_something">Recording is in progress\n</string>
+    <string name="scam">The call is detected as fraudelent call</string>
+</resources>
